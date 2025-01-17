@@ -1,6 +1,8 @@
 # CYNAPTICS-INDUCTION-TASK
 
 Transfer Learning Approach for Image Classification
+
+
 Overview
 This project uses transfer learning with MobileNetV2 to classify images into two categories.
 Dataset Structure
@@ -26,6 +28,8 @@ Made predictions on the test set and saved results in tl_submission.csv.
 
 
 GAN Training for Anime Face Generation
+
+
 Overview
 This project implements a Generative Adversarial Network (GAN) to generate anime-style face images. The GAN consists of a generator and discriminator network trained on a dataset of anime face images.
 Dataset Structure
