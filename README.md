@@ -1,4 +1,4 @@
-# CYNAPTICS-INDUCTION-TASK
+# Transfer Learning Classifier & Anime GAN Generator
 
 Transfer Learning Approach for Image Classification
 
